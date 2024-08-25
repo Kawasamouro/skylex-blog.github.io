@@ -160,7 +160,7 @@ video {
 .card .profile {
     width: 8rem;
     height: 8rem;
-    background-image: url("../img/logo.png");
+    background-image: url("logo.png");
     background-size: cover;
     background-position: center;
     border-radius: 50%;
